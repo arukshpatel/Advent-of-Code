@@ -5,5 +5,6 @@
 
 - Go:
     - [Day 1](/2023/Go/Day%201/)
+    - [Day 2](/2023/Go/Day%202/)
     
 </details>
